@@ -1,0 +1,222 @@
+[
+  {
+    "_id": "5b07d0adcf31a3a409b0bb0a",
+    "name": "Manchester City",
+    "abbr": "MNC",
+    "gamesPlayed": 38,
+    "won": 32,
+    "draw": 4,
+    "lost": 2,
+    "goalDiff": 79,
+    "points": 100
+  },
+  {
+    "_id": "5b07d0adcf31a3a409b0bb0b",
+    "name": "Manchester United",
+    "abbr": "MAN",
+    "gamesPlayed": 38,
+    "won": 25,
+    "draw": 6,
+    "lost": 7,
+    "goalDiff": 40,
+    "points": 81
+  },
+  {
+    "_id": "5b07d0adcf31a3a409b0bb0d",
+    "name": "Tottenham Hotspur",
+    "abbr": "TOT",
+    "gamesPlayed": 38,
+    "won": 23,
+    "draw": 8,
+    "lost": 7,
+    "goalDiff": 38,
+    "points": 77
+  },
+  {
+    "_id": "5b07d0adcf31a3a409b0bb10",
+    "name": "Liverpool",
+    "abbr": "LIV",
+    "gamesPlayed": 38,
+    "won": 21,
+    "draw": 12,
+    "lost": 5,
+    "goalDiff": 46,
+    "points": 75
+  },
+  {
+    "_id": "5b07d0adcf31a3a409b0bb19",
+    "name": "Chelsea",
+    "abbr": "CHE",
+    "gamesPlayed": 38,
+    "won": 21,
+    "draw": 7,
+    "lost": 10,
+    "goalDiff": 24,
+    "points": 70
+  },
+  {
+    "_id": "5b07d0adcf31a3a409b0bb0f",
+    "name": "Arsenal",
+    "abbr": "ARS",
+    "gamesPlayed": 38,
+    "won": 19,
+    "draw": 6,
+    "lost": 13,
+    "goalDiff": 23,
+    "points": 63
+  },
+  {
+    "_id": "5b07d0adcf31a3a409b0bb15",
+    "name": "Burnley",
+    "abbr": "BUR",
+    "gamesPlayed": 38,
+    "won": 14,
+    "draw": 12,
+    "lost": 12,
+    "goalDiff": -3,
+    "points": 54
+  },
+  {
+    "_id": "5b07d0adcf31a3a409b0bb09",
+    "name": "Everton",
+    "abbr": "EVE",
+    "gamesPlayed": 38,
+    "won": 13,
+    "draw": 10,
+    "lost": 15,
+    "goalDiff": -14,
+    "points": 49
+  },
+  {
+    "_id": "5b07d0adcf31a3a409b0bb12",
+    "name": "Leicester City",
+    "abbr": "LEI",
+    "gamesPlayed": 38,
+    "won": 12,
+    "draw": 11,
+    "lost": 15,
+    "goalDiff": -4,
+    "points": 47
+  },
+  {
+    "_id": "5b07d0adcf31a3a409b0bb0e",
+    "name": "Newcastle United",
+    "abbr": "NEW",
+    "gamesPlayed": 38,
+    "won": 12,
+    "draw": 8,
+    "lost": 18,
+    "goalDiff": -8,
+    "points": 44
+  },
+  {
+    "_id": "5b07d0adcf31a3a409b0bb0c",
+    "name": "AFC Bournemouth",
+    "abbr": "BOU",
+    "gamesPlayed": 38,
+    "won": 11,
+    "draw": 11,
+    "lost": 16,
+    "goalDiff": -16,
+    "points": 44
+  },
+  {
+    "_id": "5b07d0adcf31a3a409b0bb16",
+    "name": "Crystal Palace",
+    "abbr": "CRY",
+    "gamesPlayed": 38,
+    "won": 11,
+    "draw": 11,
+    "lost": 16,
+    "goalDiff": -10,
+    "points": 44
+  },
+  {
+    "_id": "5b07d0adcf31a3a409b0bb11",
+    "name": "West Ham United",
+    "abbr": "WHU",
+    "gamesPlayed": 38,
+    "won": 10,
+    "draw": 12,
+    "lost": 16,
+    "goalDiff": -20,
+    "points": 42
+  },
+  {
+    "_id": "5b07d0adcf31a3a409b0bb1a",
+    "name": "Watford",
+    "abbr": "WAT",
+    "gamesPlayed": 38,
+    "won": 11,
+    "draw": 8,
+    "lost": 19,
+    "goalDiff": -20,
+    "points": 41
+  },
+  {
+    "_id": "5b07d0adcf31a3a409b0bb14",
+    "name": "Brighton & Hove Albion",
+    "abbr": "BHA",
+    "gamesPlayed": 38,
+    "won": 9,
+    "draw": 13,
+    "lost": 16,
+    "goalDiff": -20,
+    "points": 40
+  },
+  {
+    "_id": "5b07d0adcf31a3a409b0bb17",
+    "name": "Huddersfield Town",
+    "abbr": "HUD",
+    "gamesPlayed": 38,
+    "won": 9,
+    "draw": 10,
+    "lost": 19,
+    "goalDiff": -30,
+    "points": 37
+  },
+  {
+    "_id": "5b07d0adcf31a3a409b0bb08",
+    "name": "Southampton",
+    "abbr": "SOU",
+    "gamesPlayed": 38,
+    "won": 7,
+    "draw": 15,
+    "lost": 16,
+    "goalDiff": -19,
+    "points": 36
+  },
+  {
+    "_id": "5b07d0adcf31a3a409b0bb13",
+    "name": "Stoke City",
+    "abbr": "STK",
+    "gamesPlayed": 38,
+    "won": 7,
+    "draw": 12,
+    "lost": 19,
+    "goalDiff": -33,
+    "points": 33
+  },
+  {
+    "_id": "5b07d0adcf31a3a409b0bb1b",
+    "name": "Swansea City",
+    "abbr": "SWA",
+    "gamesPlayed": 38,
+    "won": 8,
+    "draw": 9,
+    "lost": 21,
+    "goalDiff": -28,
+    "points": 33
+  },
+  {
+    "_id": "5b07d0adcf31a3a409b0bb18",
+    "name": "West Bromwich Albion",
+    "abbr": "WBA",
+    "gamesPlayed": 38,
+    "won": 6,
+    "draw": 13,
+    "lost": 19,
+    "goalDiff": -25,
+    "points": 31
+  }
+]

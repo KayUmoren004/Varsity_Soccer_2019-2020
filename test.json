@@ -1,0 +1,103 @@
+{
+  "posts": [
+    {
+        "id": "1",
+        "name": "Schenectady VS Ballston Spa",
+        "text": "Ballston got two goals and an assist from Michael Robyck. Jeff Mathews and Brayden Box also scored for the winners, and Amir Abdellatif supplied two assists in the 4-1 win.",
+        "timestamp": "1570133700000",
+        "image": "https://firebasestorage.googleapis.com/v0/b/schenectady-varsity-soccer.appspot.com/o/Shsfeed%2FMy%20Post%20(57).png?alt=media&token=6178c067-b257-4d4a-8277-4d39bd7f573b"
+    },
+    {
+        "id": "2",
+        "name": "Albany VS Schenectady",
+        "text": "Albany defeated Schenectady, 2-1. Harrison Leon had Albany’s first off a Christian Mariscal-Dreby pass in the second minute. Schenectady Abus Mohammed Ali would equalize to make it 1-1 at the half. After the break, Hser Nay Wah would score the winner off a Michael Gallagher pass. Albany had the advantage in corners, 12-2.",
+        "timestamp": "1570133700000",
+        "image": "https://firebasestorage.googleapis.com/v0/b/schenectady-varsity-soccer.appspot.com/o/Shsfeed%2FMy%20Post%20(55).png?alt=media&token=bc997a5b-fa2c-4a6d-8636-7095aca52e83"
+    },
+    {
+        "id": "3",
+        "name": "Christian Brothers Academy VS Schenectady",
+        "text": "Going into the half, the score was 2-1, CBA. Early in the second half, CBA hit the nets three times in a space of two minutes to put the game away. Jack Mendrysa had two goals, Jordan Proulx a goal and assist, Jason Lambert and Paul Abatiello each a goal, and Josh Huckans and Jake Doemel each an assist. Abus Mohaned-Ali scored fro Schenectady.",
+        "timestamp": "1570133700000",
+        "image": "https://firebasestorage.googleapis.com/v0/b/schenectady-varsity-soccer.appspot.com/o/Shsfeed%2FMy%20Post%20(54).png?alt=media&token=c4ed70c0-c166-43cd-bfcc-96335048b5c1"
+    }, 
+    {
+      "id": "4",
+      "name": "Shaker VS Schenectady",
+      "text": "Shaker's senior night was a tough 5-4 offensive battle against Schenectady under the lights and in the rain. On the fast pitch, both teams made several errors that the other team was able to capitalize on for goals. Shaker jumped out to a 3-0 lead with goals from Tyler Brennan, Jack Acquario and Sam Bunkoff with asssits from Blake Iftiger and Tyler Brennan. Schenectady got a goal before the half from Mohamad Ali who was the best player on the field for the night making driving runs through the Shaker defense. Mohamad Ali got a second off a Shaker giveaway in front of their goal right at the start of the second half. Shaker got the game back under control with 2 more goals from Sam Bunkoff who completed his hat-trick on the night. Schenectady battled back to make it 5-4 with goals from Haruna and Mohamad Ali who completed his hat-trick. A 9 goal explosion making it an exciting night for the fans who braved the rain to support Shaker's seniors. Schenectady had 9 shots and 3 corners to Shakers 19 shots and 6 corners.",
+      "timestamp": "1570133700000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/schenectady-varsity-soccer.appspot.com/o/Shsfeed%2FMy%20Post%20(53).png?alt=media&token=87ed1c6e-c50f-4666-8a43-ceb9e9169492"
+    },
+    {
+      "id": "5",
+      "name": "Schenectady VS Columbia",
+      "text": "Brady Bell scored in the 1st half with the assist from Tommy Donohue. Schenectady's Iddrisu Haruna headed in a corner to tie the game in the 2nd half. Dalton Kohler scored off an assist from Tyler Seaburg for the game winner. Brett Miller had 5 saves for Columbia and Godsen-Kemfon Umoren had 5 saves for Schenectady in an intense matchup.",
+      "timestamp": "1568060100000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/schenectady-varsity-soccer.appspot.com/o/Shsfeed%2FMy%20Post%20(51).png?alt=media&token=1888b2e0-53bb-43ab-8698-367f6a0ea394"
+    },
+    {
+      "id": "6",
+      "name": "Niskayuna VS Schenectady",
+      "text": "The Warriors bounced back after a tough loss and beat Schenectady, 7-0. Jackson Bishop lead the way with a hat trick, Tomasso Yato scored two, Mihir Randive and Jordan Angrist also added a goal apiece. Brennan Piper had 3 saves.",
+      "timestamp": "1568060100000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/schenectady-varsity-soccer.appspot.com/o/Shsfeed%2FMy%20Post%20(50).png?alt=media&token=97d5b279-5706-48af-8938-1ba37d4844a2"
+    },
+   {
+      "id": "7",
+      "name": "Schenectady VS Saratoga",
+      "text": "Saratoga's Luke Clark had 2 goals, Anthony Borelli had 1 goal, and Joe Radovich had an assist. Schenectady's Tajay Abraham and Abus Muhammed-Ali each had a goal.",
+      "timestamp": "1568060100000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/schenectady-varsity-soccer.appspot.com/o/Shsfeed%2FMy%20Post%20(48).png?alt=media&token=38480ebd-1197-4e69-8ace-8e1b4104fc35"
+    },
+    {
+      "id": "8",
+      "name": "Guilderland VS Schenectady",
+      "text": "Brandon Ford, Aiden Doyle, Caden Rosenblatt, Bugra Karaca, Shaun Francis, and Martin Madina all scored for Guilderland while Illia Tyrkus added two goals for the Dutchmen. Ryan Kirchhot got the shutout in the net.",
+      "timestamp": "1568060100000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/schenectady-varsity-soccer.appspot.com/o/Shsfeed%2FMy%20Post%20(47).png?alt=media&token=b468dd92-660a-43e3-8f66-5059adb5ceb1"
+    },
+    {
+      "id": "9",
+      "name": "Schenectady VS Colonie",
+      "text": "Johnny Brunner continued his fine season by finding the game winner in the first half vs. Schenectady.",
+      "timestamp": "1568060100000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/schenectady-varsity-soccer.appspot.com/o/Shsfeed%2FMy%20Post%20(46).png?alt=media&token=360bff75-7e8a-4ef0-8a93-984f861b3540"
+    },
+    {
+      "id": "10",
+      "name": "Schenectady VS Burnt Hills",
+      "text": "Jacob Scott had the hat trick to lead BHBL to a 5-0 win. Other goals were from Tucker Bold and AJ Giaquinto.",
+      "timestamp": "1568146500000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/schenectady-varsity-soccer.appspot.com/o/Shsfeed%2FMy%20Post%20(44).png?alt=media&token=bab0081e-bddd-4331-89f9-9a7ded76ef59"
+    },
+    {
+      "id": "11",
+      "name": "Schenectady VS Mechanicville",
+      "text": "The Mechanicville Red Raiders Traveled to Schenectady to play the Patriots in non league boys soccer action on Monday Afternoon. MHS opened up the scoring 2 minutes into the game on a goal by Tyler Tesoriero. In a physical back and forth battle the Patriots tied up the game with a perfectly played ball off the far post by Abus Mohammed-Ali taking it to 1-1 at the half. The 2nd half the Red Raiders won the possesion game and took The lead on a free kick by Kevin Charette. With 2 minutes to go Schenectady's Matthew Ramperssad equalized it . With 7 minutes to go in the flesh overtime period Jake Lafountain player a free kick into the box and Andrew Kraszewski redirected a rebound into the net to send Mechanicville home with the win. Zach white had 5 saves in net for MHS and Godson-Kemfan Umoren had 15 saves keeping the Patriots in the game most of the way",
+      "timestamp": "1568060100000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/schenectady-varsity-soccer.appspot.com/o/Shsfeed%2FMy%20Post%20(43).png?alt=media&token=49b7d367-09bd-4100-bbf0-4e31ab013072"
+    },
+    {
+      "id": "12",
+      "name": "Bethlehem VS Schenectady",
+      "text": "On a beautiful Saturday morning, the Eagles ran their record to 3-0 (4-1 overall) with a convincing 4-2 win over the Schenectady Patriots. The Eagles got off to a sluggish start and found themselves down 2-0 barely 7 minutes into the contest. Schenectady scored it's first goal 2 minutes into the opening stanza. Abus Mohamed-Ali delivered a hard shot off a direct kick that seemed to deflect off an Eagle before finding its way into the home team's net. 4 minutes later, the Pats struck again and, once again, it was Mohamed-Ali doing the damage via a penalty kick. BC got on the board at the 12 minute mark when Salko Kanic found Colden Abbott in from of the Schenectady goal. Abbott got his head on the ball before a shot in by Kiran Sood. 10 minutes later, it was Salko Kanic again, this time off an incredible corner kick that bent its way into the lower corner of the Schenectady goal. The first half ended in a 2-2 tie. BC outshot Schenectady 12-5. Brayden Karn had 2 saves. His Schenectady counterpart finished the half with 6 saves. Four minutes into the second half, Kenan Kanic scored on a nifty pass from Kiran Sood. Three minutes later, BC upped its lead to 4-2 when Salko Kanic registered his second goal of the game on a pass from Sood. BC outshot Schenectady 15-1 in the half. Karn had 1 save. The Sch'dy goalie had 7 saves.",
+      "timestamp": "1567868400000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/schenectady-varsity-soccer.appspot.com/o/Shsfeed%2FMy%20Post%20(41).png?alt=media&token=d3beec2e-d340-4764-b5dc-d7f8eec69b22"
+    },
+    
+    {
+      "id": "14",
+      "name": "Schenectady VS Averill Park",
+      "text": "Schenectady led at the half, 2-1, and went on for an impressive 5-2 win over Averill Park. The seniors led the way for Schenectady. Abus Mohamed-Ali had a huge night, scoring twice and assisting on two other scores. Tajay Braham also netted two scores for the Patriots. Mohammed Mohammed scored as well, and Andrew Gomez added an assist. Joey Sorriento scored for Averill Park in the first half, assisted by Dean Buttaci. The other AP goal was an own goal.",
+      "timestamp": "1567541700000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/schenectady-varsity-soccer.appspot.com/o/Shsfeed%2FMy%20Post%20(38).png?alt=media&token=95b0576f-e207-4670-8715-a069eb177fa2"
+    },
+    {
+      "id": "13",
+      "name": "Schenectady VS Troy",
+      "text": "Troy’s Andre Burke earned the shut out for Troy with another fine performance. Troy’s backline played well in this wide open double overtime game.",
+      "timestamp": "1567714500000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/schenectady-varsity-soccer.appspot.com/o/Shsfeed%2FMy%20Post%20(39).png?alt=media&token=c80de150-069c-4cbf-aa59-3b785164a1ba"
+    }
+  ]
+}

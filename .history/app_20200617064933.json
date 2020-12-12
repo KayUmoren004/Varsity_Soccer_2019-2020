@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Schnectady Varsity Soccer",
+    "slug": "SHS Varsity",
+    "ios": {
+      "bundleIdentifier": "com.cuvehoodstudios.shsvarsity",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.cuvehoodstudios.shsvarsity",
+      "versionCode": 1
+    },
+    
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#121D51"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
